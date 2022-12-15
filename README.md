@@ -1,6 +1,7 @@
 # change_ssh_key
 
-![image](https://user-images.githubusercontent.com/13986633/207976125-be37e243-0066-47b3-ab15-c103462fa4f7.png)
+![image](https://user-images.githubusercontent.com/13986633/207983377-57e3b0b2-3ab7-458a-a9fa-6b9e6e1f4eab.png)
+
 
 ## Dando permissão de execução
 Após clonar o diretório, entre no diretório e dê as permissões necessárias ao arquivo change_ssh_key.ssh para execução:
