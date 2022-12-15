@@ -28,4 +28,4 @@ Execute o script no terminal passando como parametro o nome dado ao parâmetro n
 
 ## Uma recomendação é criar lançadores no menu, para que fiquei mais prático o uso.
 
-👋 Está pronto o sorvetinho!!!
+👋 ... E está pronto o sorvetinho!!!
