@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#####   NOME:            change_ssh_key.ssh
+#####   VERSÃO:          1.0
+#####   DESCRIÇÃO:       Faz a mudança do de chaves ssd.
+#####   DATA DA CRIAÇÃO: 15/12/2022
+#####   ESCRITO POR:     Manoel Pereira dos Santos
+#####   E-MAIL:          manoelps@live.com
+#####   DISTRO:          Linux Mint 20.3 Cinnamon
+#####   LICENÇA:         GPLv3
+#####   PROJETO:         https://github.com/manoelps/change_ssh_key
+
+git="$1"
+
+case $1 in
+'empresa_01')
+cp -f ~/.ssh/empresa_01/* ~/.ssh/
+;;
+'empresa_02')
+cp -f ~/.ssh/empresa_02/* ~/.ssh/
+;;
+'empresa_03')
+cp -f ~/.ssh/empresa_03/* ~/.ssh/
+;;
+'empresa_04')
+cp -f ~/.ssh/empresa_04/* ~/.ssh/
+;;
+*) echo "Opcao Invalida!" ;;
+esac
