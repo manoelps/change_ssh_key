@@ -1,6 +1,6 @@
 # change_ssh_key
 
-![image](https://user-images.githubusercontent.com/13986633/208003538-564fef7a-99e2-40ae-8765-1e010eee7258.png)
+![image](https://user-images.githubusercontent.com/13986633/208004917-793c4e86-7293-49e4-9d7d-34b104d5330f.png)
 
 
 ## Dando permissão de execução
