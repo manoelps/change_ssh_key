@@ -10,8 +10,6 @@
 #####   LICENÇA:         GPLv3
 #####   PROJETO:         https://github.com/manoelps/change_ssh_key
 
-git="$1"
-
 case $1 in
 'empresa_01')
 cp -f ~/.ssh/empresa_01/* ~/.ssh/
